@@ -90,7 +90,8 @@
 
 # 🎖️ Holopin Badges:
 
-[![Holopin Badges](https://www.holopin.io/@harshraj112)](https://www.holopin.io/@harshraj112)
+[![![image](https://github.com/user-attachments/assets/5e0b72d1-3765-41c2-8dc1-50389e0b9895)
+](https://www.holopin.io/@harshraj112)](https://www.holopin.io/@harshraj112)
 
 ---
 
