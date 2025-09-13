@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a student on IIIT Kalyani.<br>👯‍♂️ I'm looking to collaborate with passionate web developers currently.<br>🍃 I'm currently learning Backend Web Development.<br>⚡️ Fun Fact about me is I am too lazy until i got some work. 🙂🙂
+🔭 I'm currently a student on IIIT Kalyani.<br>👯‍♂️ I'm looking to collaborate with passionate web developers currently.<br>🍃 I'm currently learning AI/ML.<br>⚡️ Fun Fact about me is I am too lazy until i got some work. 🙂🙂
 
 
 ## 🌐 Socials:
