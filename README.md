@@ -82,17 +82,8 @@ const harsh = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Harshraj112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshraj112&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f97316&currStreakLabel=c9d1d9" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraj112&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400" />
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Harshraj112&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshraj112&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -111,27 +102,13 @@ const harsh = {
 
 ---
 
-## 📈 Coding Stats & Activity
 
-<div align="center">
 
-### 📊 Weekly Development Breakdown
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-### 💼 Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
----
-
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 <div align="center">
 
@@ -141,9 +118,9 @@ const harsh = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshraj112&repo=Winter-of-Code-5.0&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/Harshraj112/Winter-of-Code-5.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshraj112&repo=Car_dekhoo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/Harshraj112/Car_dekhoo)
 
-</div>
+</div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
 ---
 
@@ -210,9 +187,9 @@ pie title My Time Distribution
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshraj112&theme=github_dark" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshraj112&theme=github_dark" width="49%" />
 
-### 🎖️ GitHub Badges
+<!-- ### 🎖️ GitHub Badges
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshraj112&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harshraj112&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy" /> -->
 
 </div>
 
