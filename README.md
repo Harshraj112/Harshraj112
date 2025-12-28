@@ -88,6 +88,16 @@ const harsh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+<div>
+
+## 📊 Contribution Radar
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshraj112&theme=github_dark&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshraj112&theme=github_dark" width="49%" />
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+
 ---
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"> Contribution Activity
